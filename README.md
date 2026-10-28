@@ -64,5 +64,23 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Chekin is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://chekin.com/
+Chekin provides a comprehensive online check‑in platform for hospitality businesses, automating guest registration, identity verification, e‑invoicing, tax compliance and remote key access. Their solution includes a developer SDK and API that enable property managers to integrate check‑in, compliance reporting and payment processing into their own systems, supporting multi‑language and multi‑country regulations.
+
+**Areas:** Hospitality · Check-in · Compliance · API · SDK
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://chekin.com/)
+- [Documentation](https://chekin.com/en/sdk/)
+- [Getting started](https://chekin.com/en/pricing/)
+- [API reference](https://chekin.com/en/sdk/)
+- [Pricing](https://chekin.com/en/pricing/)
+- [Support](https://support.chekin.com/en)
+- [Blog](https://chekin.com/en/blog/)
+- [Terms of service](https://chekin.com/en/terms/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/chekin/](https://apis.io/providers/chekin/).
